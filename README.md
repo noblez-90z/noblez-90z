@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @noblez-90z
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...css and javascript
-- 💞️ I’m looking to collaborate on ...projects involving css and js
+- 🌱 I’m currently learning ... javascript and react
+- 💞️ I’m looking to collaborate on ...projects involving css and js,react
 - 📫 How to reach me ...donellnoblez@gmail.com
 
 <!---
